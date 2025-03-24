@@ -1,5 +1,6 @@
 # PerfectHash
 A Dynamic initialized perfect hash module.
-# test
+# compile
 make
+# test
 ./main
